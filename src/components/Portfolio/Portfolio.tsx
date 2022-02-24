@@ -16,22 +16,21 @@ export function Portfolio(){
           <header>
           <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
           <div className="project-links">
-            <a href="https://github.com/joaotuliojt/fc-squad43" target="_blank" rel="noreferrer">
-              <img src={githubIcon} alt="GitHub" />
-            </a>
+            <a href="https://mergeedu.com/" target="_blank" rel="noreferrer">
+                <img src={externalLinkIcon} alt="Visitar site" />
+              </a>
           </div>
           </header>
           <div className="body">
-            <h3>FCallendar</h3>
-            <p>Uma aplicação Web realizada durante o Hackathon do programa de formação da <a href="https://www.fcamara.com.br/"> FCamara</a>. Esta aplicação serve para ajudar na volta do trabalho remoto para o presencial.
+            <h3>MergeEdu</h3>
+            <p> Merge EDU engages students in science and STEM with 3D objects and simulations they can touch, hold and interact with.
             </p>
           </div>
           <footer>
             <ul className="tech-list">
-              <li>Node</li>
-              <li>Express</li>
-              <li>MySql</li>
-              <li>Ejs</li>
+              <li>JQuery</li>
+              <li>Babylon JS</li>
+              <li>Firestore</li>
             </ul>
           </footer>
         </div>
@@ -42,24 +41,21 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/joaotuliojt/github-search" target="_blank" rel="noreferrer">
+              <a href="https://github.com/nabinstha1234/Disease-prediction-with-ml" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="GitHub" />
-              </a>
-              <a href="https://github-search-blond.vercel.app/" target="_blank" rel="noreferrer">
-                <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Github Searcher</h3>
-              <p>Uma versão mais agradável para ver seu perfil do GitHub, inclui visualização de dados , repositórios, compartilhamento entre outros.
+              <h3>Disease Predection using Symptoms</h3>
+              <p>This system predicts the disease of a patient based on the symptoms they have. I have used machine learning techniques to predict the disease of a patient based on the symptoms they have.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
                 <li>React</li>
-                <li>Typescript</li>
-                <li>Styled Components</li>
+                <li>JQuery</li>
+                <li>Django Rest Framework</li>
               </ul>
             </footer>
           </div>
@@ -70,21 +66,22 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://joaotuliojt.github.io/sunnyside-agency/" target="_blank" rel="noreferrer">
+              <a href="https://literalapp.com/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Sunnyside agency</h3>
-              <p>Uma lading page de uma empresa fictícia proposta pelo <a href="https://www.frontendmentor.io/">Frontend Mentor.</a>
+              <h3>Literal App</h3>
+              <p>
+              Engage your students with a modern, standards-aligned reading platform for literary fiction.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>JavaScript</li>
+                <li>Vue</li>
+                <li>JQuery</li>
+                <li>Django</li>
               </ul>
             </footer>
           </div>
@@ -95,20 +92,22 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://joaotulio.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://dhukka.app/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Portfólio V1</h3>
-              <p>Uma versão alternativa de meu portfólio, utilizando VueJs.
+              <h3>Dhukka App</h3>
+              <p>Dhukka is the newest local-based service provider where you can hire highly trusted background verified professionals to get all kinds of home services. We make sure your bikes, scooters, and cars get repairing and servicing at our advanced workshop. Along with vehicle services, Dhukka App provides electrical, plumbing, appliances repairing, painting, laundry, room shifting, vehicle rental, couriers with the fastest delivery. You could make a booking, track the booking status and rate the provider on the go.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>VueJs</li>
-                <li>JavaScript</li>
+                <li>React</li>
+                <li>Redux</li>
+                <li>Google Map</li>
+                <li>EChart</li>
               </ul>
             </footer>
           </div>
@@ -119,20 +118,20 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/joaotuliojt/dtmoney-trilha-reactjs" target="_blank" rel="noreferrer">
+              <a href="https://github.com/nabinstha1234/book_shop" target="_blank" rel="noreferrer">
                 <img src={githubIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Dtmoney</h3>
-              <p>Um gerenciador de finanças para analisar seus ganhos, gastos e ter um controle maior de suas finanças.
+              <h3>React Boiler Plate</h3>
+              <p> I have used redux toolkit  to create this project. It is a boiler plate for react projects. It has all the basic components and functionality.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>VueJs</li>
-                <li>JavaScript</li>
+                <li>React</li>
+                <li>Redux Toolkit</li>
               </ul>
             </footer>
           </div>
@@ -143,23 +142,21 @@ export function Portfolio(){
             <header>
             <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
             <div className="project-links">
-              <a href="https://github.com/joaotuliojt/dv-musica-library-page" target="_blank" rel="noreferrer">
-                <img src={githubIcon} alt="Visitar site" />
-              </a>
-              <a href="https://joaotuliojt.github.io/dv-musica-library-page/" target="_blank" rel="noreferrer">
+            
+              <a href="https://leveluptech.io/" target="_blank" rel="noreferrer">
                 <img src={externalLinkIcon} alt="Visitar site" />
               </a>
             </div>
             </header>
             <div className="body">
-              <h3>Music Library</h3>
-              <p>Uma interface para uma biblioteca de músicas, semelhante ao Spotify.
+              <h3>Levelup Tech</h3>
+              <p>This is online bootcamp platform for developers. It is a platform where you can learn and practice coding. It has all the basic components and functionality.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
+                <li>React</li>
+                <li>Redux</li>
                 <li>JavaSript</li>
               </ul>
             </footer>
